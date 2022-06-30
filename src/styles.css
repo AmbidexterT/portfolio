@@ -1,4 +1,7 @@
 
+.font-fira {
+  font-family: "Fira Code", monospace;
+}
 .bar-title{
     content: "";
     display: block;

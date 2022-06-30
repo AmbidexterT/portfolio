@@ -26,7 +26,7 @@ export class ProjectsComponent implements OnInit {
 
     const animation = anime.timeline({
       targets: test.listAll,
-      delay: anime.stagger(100, {
+      delay: anime.stagger(80, {
         grid: [test.list[0].length, test.list.length],
         from: 'center'
       }),
