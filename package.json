@@ -24,6 +24,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
     "@types/aos": "^3.0.3",
+    "animejs": "^3.2.1",
     "aos": "^2.3.4",
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",

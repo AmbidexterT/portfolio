@@ -6,7 +6,6 @@ import { AppComponent } from './app.component';
 import { AboutComponent } from './about/about.component';
 import { ProjectsComponent } from './projects/projects.component';
 import { CompetencesComponent } from './competences/competences.component';
-import { ContactComponent } from './contact/contact.component';
 import { HeaderComponent } from './header/header.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { HomeComponent } from './home/home.component';
@@ -18,7 +17,6 @@ import { HomeComponent } from './home/home.component';
     AboutComponent,
     ProjectsComponent,
     CompetencesComponent,
-    ContactComponent,
     HeaderComponent,
     HomeComponent
   ],
