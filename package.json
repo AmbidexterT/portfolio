@@ -28,6 +28,7 @@
     "aos": "^2.3.4",
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
+    "letterizejs": "^2.0.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "typed.js": "^2.0.11",

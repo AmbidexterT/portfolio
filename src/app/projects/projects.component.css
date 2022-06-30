@@ -21,8 +21,6 @@ li.active{
 
 }
 
-
-
 .links{
   opacity: 0;
   position: absolute;
@@ -30,8 +28,25 @@ li.active{
   left: 0;
   right: 0;
   text-align: center;
-  
-  
+
+
 }
 
+  body {
+    background-color: #fff;
+    color: #222;
+    font-weight: 275;
+    font-size: 1.4vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Khula", sans-serif;
+    height: 75vh;
+    box-sizing: border-box;
+    letter-spacing: 6px;
+    margin: 0;
+    line-height: 1.3;
+  }
 
