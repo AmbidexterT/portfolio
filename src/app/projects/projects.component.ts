@@ -26,7 +26,7 @@ export class ProjectsComponent implements OnInit {
 
     const animation = anime.timeline({
       targets: test.listAll,
-      delay: anime.stagger(80, {
+      delay: anime.stagger(100, {
         grid: [test.list[0].length, test.list.length],
         from: 'center'
       }),
@@ -35,13 +35,13 @@ export class ProjectsComponent implements OnInit {
 
     animation
       .add({
-        scale: 0.5
+        scale: 1.5
       })
       .add({
         letterSpacing: "13px"
       })
       .add({
-        scale: 1
+        scale: 1.5
       })
       .add({
         letterSpacing: "7px"
