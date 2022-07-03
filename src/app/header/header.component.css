@@ -1,24 +1,28 @@
-li:hover,.home:hover {
-    background-color: rgb(51, 59, 61);
-  }
-  i:hover,a:hover {
-    background-color: rgb(45, 51, 53);
-  }
-  nav{
-      background-color: #212529;
-
-  }
-
-i{
-  font-size: 24px;
-  padding-right: 6px;
-  color: aquamarine;
-
-}
-.nav-home:hover{
+li:hover, .home:hover {
   background-color: rgb(51, 59, 61);
 }
-a{
+
+nav {
+  background-color: #212529;
+
+}
+
+.nav-home:hover {
+  background-color: rgb(51, 59, 61);
+}
+
+i {
+  font-size: 24px;
+  padding-right: 6px;
+  color: #8cd790;
+
+}
+
+i:hover, a:hover {
+  background-color: rgb(45, 51, 53);
+}
+
+a {
   display: flex;
   align-items: center;
   padding: 3px 4px;
@@ -26,6 +30,7 @@ a{
   transition: 0.3s;
   font-size: 15px;
 }
-li{
+
+li {
   display: inline-flex;
 }
