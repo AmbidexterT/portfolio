@@ -1,5 +1,7 @@
 # MyPortfolio
 
+![animation-profile4](https://user-images.githubusercontent.com/55133073/178462132-8171f417-cfb1-4cdf-81ad-ebead6811da7.gif)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
 ### How to Load the App
@@ -13,7 +15,5 @@ Angular portfolio with using Anime.js.
 
 ## Just a portfolio with animation
 
-
-![animation-profile3](https://user-images.githubusercontent.com/55133073/178461415-93694e77-9410-4ed5-802d-48526ce37db8.gif)
 
 
