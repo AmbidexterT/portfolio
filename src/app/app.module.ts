@@ -9,6 +9,7 @@ import { CompetencesComponent } from './competences/competences.component';
 import { HeaderComponent } from './header/header.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { HomeComponent } from './home/home.component';
+import { FooterComponent } from './footer/footer.component';
 
 
 @NgModule({
@@ -18,7 +19,8 @@ import { HomeComponent } from './home/home.component';
     ProjectsComponent,
     CompetencesComponent,
     HeaderComponent,
-    HomeComponent
+    HomeComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
