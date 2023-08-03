@@ -15,5 +15,10 @@ Angular portfolio with using Anime.js.
 
 ## Just a portfolio with animation
 
+![image](https://github.com/AmbidexterT/portfolio/assets/55133073/9a961ae7-70c8-40a0-baa4-b2aeb5263372)
+![image](https://github.com/AmbidexterT/portfolio/assets/55133073/30f704ed-4f33-479e-93fa-d26301ef1d25)
+![image](https://github.com/AmbidexterT/portfolio/assets/55133073/acee9aca-028a-4a7d-af02-d18fef705418)
+
+
 
 
